@@ -1,0 +1,7 @@
+name: ShaderApply
+main: me.bomb.shaderapply.ShaderApply
+version: 0.1
+author: Bomb
+api-version: 1.13
+commands:
+  shader:
